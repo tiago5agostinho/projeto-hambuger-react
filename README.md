@@ -3,7 +3,7 @@
 
 <img src="./src/assets/codBuger1.png" alt="foto da pagina principal do meu projeto">
 
-<img src="./src/assets/codeBuger2.png" alt="foto da pagina secundaria do meu projeto">
+<img src="./src/assets/codBuger2.png" alt="foto da pagina secundaria do meu projeto">
 
 > resultado final do meu projeto .
 ### Ajustes e melhorias
